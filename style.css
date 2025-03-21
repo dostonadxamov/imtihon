@@ -33,6 +33,18 @@
     justify-content: space-between;
     align-items: center;
 }
+.slider img:nth-child(6){
+    filter: blur(10px);
+}
+
+
+.slider img:nth-child(7){
+    filter: contrast(.
+0.5);
+}
+.slider img:nth-child(6){
+    filter: hue-rotate(180deg);
+}
 
 .navbar button {
     border: none;
