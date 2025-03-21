@@ -18,7 +18,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+body{
+    owerflow-X:hidden;
+}
 .container {
     max-width: 1111px;
     margin: auto;
